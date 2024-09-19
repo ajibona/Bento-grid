@@ -317,7 +317,7 @@ body{
   }
 
   .box2 p{
-    font-size: 1.2rem;
+    font-size: 1.4rem;
   }
 
   /*--------------------------------------------------*/
@@ -416,10 +416,11 @@ body{
 
   .box8 p{
     font-size: 2rem;
+    line-height: .8;
   }
 
   .box8 img{
-    max-width: 150px;
+    max-width: 190px;
   }
 
 }
